@@ -429,8 +429,7 @@ footer{
 	margin-right: 10px;
 	border-radius: 20%;
 }
-}
-.socials a i{
+.socials a strong{
     color: #e7f2f4;
     padding: 10px 12px;
     font-size: 20px;

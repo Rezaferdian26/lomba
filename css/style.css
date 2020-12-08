@@ -270,8 +270,6 @@ opacity: 1;
 text-shadow: 0 0 2em white;
 }
 
-/* lanjut besok */
-/* menit 41.00  */
 .featured__item::after {
 content: '';
 position: absolute;
@@ -423,10 +421,14 @@ footer{
 }
 .socials a{
     background: #364a62;
-    width: 40px;
+    width: 120px;
     height: 4opx;
-    display: inline-block;
-    margin-left: 10px;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border-radius: 20%;
+}
 }
 .socials a i{
     color: #e7f2f4;
